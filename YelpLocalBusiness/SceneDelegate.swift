@@ -1,12 +1,13 @@
 //
 //  SceneDelegate.swift
-//  YelpLocalBusiness
+//  YelpLocalPlaces
 //
-//  Created by Tuan Tran on 7/18/22.
+//  Created by Tuan Tran on 7/16/22.
 //
 
 import UIKit
 
+@available(iOS 13.0, *)
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
