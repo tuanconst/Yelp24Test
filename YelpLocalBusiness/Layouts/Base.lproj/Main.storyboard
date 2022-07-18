@@ -28,7 +28,7 @@
         <!--Business Main Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="BusinessMainController" customModule="YelpLocalPlaces" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="BusinessMainController" customModule="YelpLocalBusiness" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -81,7 +81,7 @@
         <!--Business Search Controller-->
         <scene sceneID="cFg-ta-GC1">
             <objects>
-                <viewController id="hLi-Fh-be6" customClass="BusinessSearchController" customModule="YelpLocalPlaces" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="hLi-Fh-be6" customClass="BusinessSearchController" customModule="YelpLocalBusiness" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="sfL-Ma-wxb">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -147,7 +147,7 @@
         <!--Business Detail Controller-->
         <scene sceneID="oCl-aw-LDI">
             <objects>
-                <viewController id="758-Qq-b6G" customClass="BusinessDetailController" customModule="YelpLocalPlaces" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="758-Qq-b6G" customClass="BusinessDetailController" customModule="YelpLocalBusiness" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="7jp-KE-bB1">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -249,6 +249,9 @@
     <designables>
         <designable name="bpd-O1-p3c">
             <size key="intrinsicContentSize" width="120" height="20"/>
+        </designable>
+        <designable name="re2-P3-TSA">
+            <size key="intrinsicContentSize" width="254" height="16"/>
         </designable>
     </designables>
     <resources>
